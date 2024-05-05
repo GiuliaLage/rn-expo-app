@@ -1,4 +1,4 @@
-import GoalsContainer from "./containers/goals-container";
+import GoalsContainer from "./containers/goalsContainer";
 
 const App = () => <GoalsContainer/>
 
